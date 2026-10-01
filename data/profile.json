@@ -1,10 +1,10 @@
 {
-  "name": "Renan J Paula",
+  "name": "João Vitor Lino de Oliveira",
   "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "job": "Junior Developer",
+  "location": "Rio de Janeiro - BR",
+  "phone": "(21) 96846-5215",
+  "email": "joaovitor.lino@hotmail.com",
   "skills": {
     "hardSkills": [
       {
@@ -42,9 +42,7 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (intermediário)"
   ],
   "portfolio": [
     {
@@ -60,19 +58,14 @@
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Assistente de HelpDesk - On Telecom",
+      "period": "Julho 2025 - Dez 2025",
+      "description": "Atendimento e Suporte Técnico a clientes"
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Estágio de Suporte Técnico - On Telecom",
+      "period": "Setembro 2024 - Julho 2025",
+      "description": "Prestava atendimento, Suporte Técnico a clientes e fazia monitoramento da rede com a equipe NOC."
     }
   ]
 }
